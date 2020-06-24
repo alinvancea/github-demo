@@ -8,7 +8,7 @@ This is just a repo to use on learning
 Learn git now
 
 ## How to contribute
-Don't
+Don't you dare!
 
 ## Deployment
 Not necessary for now.
