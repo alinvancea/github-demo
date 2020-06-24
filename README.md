@@ -2,7 +2,7 @@
 A simple demo repository to show the basic Git workflo
 
 ## Introduction
-This is just a repo to use on learning
+This is just a repo to use for learning Git
 
 ## Purpose
 Learn git now
